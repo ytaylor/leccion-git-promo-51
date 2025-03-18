@@ -1,6 +1,7 @@
 # Lección Git de la promo 51 
 
 ## Comandos de Git
+### comandos:
 
 - `git clone <url>`: clona un repositorio remoto en un repositorio local.
 - `git add -A`:  añadir todos los ficheros a git. 
